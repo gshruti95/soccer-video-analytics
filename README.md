@@ -5,6 +5,6 @@ This repository contains a basic system which tracks player and ball positions o
 Test video:
 Semi final match FIFA 2014 (Ger vs Brazil)
 
-Sample output video:
-[Player tracking](https://youtu.be/kzFvQZBnbis)
-[Ball tracking](https://youtu.be/rF0kn_0iPwg)
+Sample output videos:
+[Player tracking](https://youtu.be/kzFvQZBnbis){:target="_blank"} <br/>
+[Ball tracking](https://youtu.be/rF0kn_0iPwg){:target="_blank"
