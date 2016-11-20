@@ -6,5 +6,5 @@ Test video: <br/>
 Semi final match FIFA 2014 (Ger vs Brazil)
 
 Sample output videos: <br/>
-[Player tracking](https://youtu.be/kzFvQZBnbis){:target="_blank"} <br/>
-[Ball tracking](https://youtu.be/rF0kn_0iPwg){:target="_blank"}
+<a href="https://youtu.be/kzFvQZBnbis" target="_blank">Player tracking</a><br/>
+<a href="https://youtu.be/rF0kn_0iPwg" target="_blank">Ball tracking</a>
